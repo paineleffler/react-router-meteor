@@ -1,0 +1,25 @@
+/* CSS declarations go here */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+
+.active {
+  font-weight: bold;
+}
+
+.nav-bar {
+  margin: 30px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: inherit;
+  margin: 20px;
+  float: right;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
